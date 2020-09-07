@@ -131,3 +131,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/.vs/StringRandomizer/v16/Server/sqlite3
